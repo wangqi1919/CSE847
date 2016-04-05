@@ -18,4 +18,4 @@ ylabel('AUC');
 
 plot(par,num_feature);
 xlabel('par');
-ylabel('num_feature');
+ylabel('num\_feature');
